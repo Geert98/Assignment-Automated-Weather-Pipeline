@@ -1,6 +1,2 @@
 requests
-sqlite3
-os
-datetime
-zoneinfo
 dotenv
